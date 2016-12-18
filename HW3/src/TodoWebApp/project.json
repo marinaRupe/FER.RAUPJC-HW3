@@ -1,7 +1,8 @@
-﻿{
+{
   "userSecretsId": "aspnet-TodoWebApp-f4728582-d1d4-4078-b770-4b7ae42a6bbb",
 
   "dependencies": {
+    "EntityFramework": "6.0.0",
     "Microsoft.AspNetCore.Authentication.Cookies": "1.0.0",
     "Microsoft.AspNetCore.Diagnostics": "1.0.0",
     "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "1.0.0",
